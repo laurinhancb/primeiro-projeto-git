@@ -4,4 +4,4 @@
 
 - **Faculdade:** Fatec de Itapira "Ogari de Castro Pacheco"
 - **Curso:** Desenvolvimento de Software Multiplataforma
-- **Aluno:** [Laura] (https://github.com/laurinhancb)
+- **Aluno:** Laura Brianti - Link do Github: (https://github.com/laurinhancb)
